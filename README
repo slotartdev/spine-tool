@@ -1,0 +1,13 @@
+# Aim of this tool is to provide better view of spine animation in real web environment
+#
+# For the best results, be sure to always export spine animations in newest stable version available
+#
+#
+# How does it work:
+# 1. Export spine animation with name test
+# 2. Place exported file in assets folder
+# 3. open index.html and see the result
+# 4. If everything is correct, you will see animation and few buttons available
+#
+#
+# For any suggestions, please contact me on darko@slotartstudio.com

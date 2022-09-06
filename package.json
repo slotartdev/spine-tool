@@ -1,0 +1,23 @@
+{
+  "name": "spine-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slotartdev/spine-tool.git"
+  },
+  "author": "Darko @SlotArt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slotartdev/spine-tool/issues"
+  },
+  "homepage": "https://github.com/slotartdev/spine-tool#readme",
+  "dependencies": {
+    "pixi": "^0.3.1",
+    "pixi.js": "^6.5.2"
+  }
+}
